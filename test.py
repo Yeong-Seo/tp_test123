@@ -1,5 +1,5 @@
 def outline():
-
+    print('thanks')
 
 def outline2():
 
